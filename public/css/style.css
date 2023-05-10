@@ -1,0 +1,19 @@
+/* Apply box-sizing globally to all elements */
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply font-size, color and background-color to the body element */
+body {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  min-height: 100vh;
+  color: #fff;
+  background-color: #000;
+  display: grid;
+  place-items: center;
+}

@@ -1,0 +1,26 @@
+[
+    {
+      "stateCode": "CO",
+      "funfacts": [ "The world's largest flat-top mountain can be found in Grand Mesa.",
+                    "The world's largest natural hot springs pool is located in Glenwood Springs, running two city blocks long.",
+                    "The 13th step of the capital building in Denver is exactly one mile high above sea level."]
+    },
+    {
+      "stateCode": "KS",
+      "funfacts": [ "Kansas is well known for the Wizard of Oz movie",
+                    "It has the geographical center of the lower 48 United States",
+                    "Pizza Hut started in Kansas" ]
+    },
+    {
+      "stateCode": "MO",
+      "funfacts": [ "Missouri was the 24th state to join the Union.",
+                    "Kansas City and St. Louis are home to more than half of the states population. ",
+                    "Missouri has the largest beer-producing plant in the United States." ]
+    },
+    {
+      "stateCode": "OK",
+      "funfacts": [ "Baseball superstar Mickey Mantle was originally born in Spavinaw, OK.",
+                    "The shopping cart was invented in Ardmore in 1936.",
+                    "Oklahoma has the largest Native American population of any state in the U.S." ]
+    }
+  ]
